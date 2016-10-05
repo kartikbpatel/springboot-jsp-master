@@ -1,7 +1,8 @@
 # Spring Boot Hello World Example with JSP
 
 ## Guide
-https://hellokoding.com/spring-boot-hello-world-example-with-jsp/
+localhost:8080/
+localhost:8080/hello?name=world
 
 ## What you'll need
 - JDK 1.7 or later
